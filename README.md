@@ -5,11 +5,13 @@ Projeto desenvolvido com Vue.js + Leaflet (frontend) e Node.js + Express (backen
 ## Como rodar o projeto
 
 ### Frontend
+```bash
 cd frontend
 npm run dev
+```
 
 ### Backend
 ```bash
 cd backend
 node index.js
-
+```
